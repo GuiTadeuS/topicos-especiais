@@ -1,0 +1,8 @@
+parallel/tree-parallel-c
+sequential/tree-c
+sequential/tree-hs
+sequential/tree-hs.hi
+sequential/tree-hs.o
+parallel/tree-parallel-hs.o
+parallel/tree-parallel-hs.hi
+parallel/tree-parallel-hs
