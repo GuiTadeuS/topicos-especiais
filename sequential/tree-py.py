@@ -30,4 +30,4 @@ if __name__ == "__main__":
     print(f"Result(Python): {main()}")
     end = time.time()
     resultTime = end - start 
-    print(f"- TIME(Python): {resultTime:.2f}s ", )
+    print(f"- TIME(Python): {resultTime:.2f}s")
